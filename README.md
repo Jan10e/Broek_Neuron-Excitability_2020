@@ -6,7 +6,8 @@ This repo contains research code for the further generalisation of neuronal exci
 
 <!-- > [Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.](https://doi.org/10.1016/j.neuron.2019.10.020).<br> -->
 > [Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.](https://arxiv.org/abs/2011.00297).<br>
-Broek JAC, Drion G (2020). *ArXiv*. 105(2):246-259.e8
+Broek JAC, Drion G (2020). *ArXiv*. 2011.00297
+
 
 The code contains results of the following models: Fitzhugh-Nagumo (FHN), mirrored Fitzhugh-Nagumo (mFHN), reduced Connor-Stevens (CSred), and reduced Hodgkin-Huxley with Ca$^+$ (HHCared).
 
