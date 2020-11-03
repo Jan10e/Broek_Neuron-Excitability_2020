@@ -5,7 +5,7 @@
 This repo contains research code for the further generalisation of neuronal excitability in classical phenomenological models and models that incorporates a slow regenerative current. This was developed as part of the following manuscript, which focuses on the further generalisation of neuronal excitability by incorporating a slow regenerative current:
 
 <!-- > [Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.](https://doi.org/10.1016/j.neuron.2019.10.020).<br> -->
-> [Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.]().<br>
+> [Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.](https://arxiv.org/abs/2011.00297).<br>
 Broek JAC, Drion G (2020). *ArXiv*. 105(2):246-259.e8
 
 The code contains results of the following models: Fitzhugh-Nagumo (FHN), mirrored Fitzhugh-Nagumo (mFHN), reduced Connor-Stevens (CSred), and reduced Hodgkin-Huxley with Ca$^+$ (HHCared).
@@ -37,17 +37,15 @@ You will need to repeat these steps if we update the code.
 ## Citation
 
 <!-- If you found this resource useful, please consider citing [this paper](https://doi.org/10.1016/j.neuron.2018.05.015). -->
-If you found this resource useful, please consider citing [this paper]().
+If you found this resource useful, please consider citing [this paper](https://arxiv.org/abs/2011.00297).
 
 ```
 @ARTICLE{Broek2020,
   title    = "Generalisation of neuronal excitability allows for the identification of an excitability change parameter that links to an experimentally measurable value.",
   author   = "Broek, Jantine AC and Drion, Guillaume",
   journal  = "ArXiv",
-  volume   =  98,
-  number   =  6,
-  pages    = "1099--1115.e8",
-  month    =  Nov,
+  eprint   =  "2011.00297",
+  month    =  Oct,
   year     =  2020,
 }
 ```
